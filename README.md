@@ -108,7 +108,7 @@ Estudante de Ciência da Computação, apaixonada por tecnologia e sempre explor
 ## ✉️ Contato
 
 [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=98E3E3)](mailto:leticia.rsousa01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/mari4souza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/rsleticia/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DDCFF,100:FA55D2&height=112&section=footer&animation=fadeIn" 
 width="100%" />
