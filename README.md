@@ -2,23 +2,22 @@
 width="100%" />
 
 <p align = "center">
-<strong>Estudante de Ciência da Computação | Dados & Desenvolvimento</strong>
+<strong>Estudante de Ciência da Computação | Dados & Análise de Sistemas</strong>
 </p>
 
 ---
 ## 👩🏻‍💻 Sobre mim 
 
-Estudante de Ciência da Computação, apaixonada por tecnologia e sempre explorando novos caminhos entre desenvolvimento, qualidade de software e análise de dados. Gosto de aprender, criar, testar e transformar ideias em soluções reais. Tenho interesse em compreender como os sistemas funcionam, identificar possíveis erros e contribuir para que aplicações sejam cada vez mais confiáveis e bem estruturadas.
+Estudante de Ciência da Computação com interesse em tecnologia, análise de dados e análise de sistemas. Busco aprimorar meus conhecimentos em programação, resolução de problemas e compreensão do funcionamento de aplicações. Tenho interesse em aprender na prática e contribuir com análise de dados e identificação de problemas em sistemas.
 
 ---
 ## 📚 O que estou aprendendo no momento
-- 🐍 Aprofundando meus conhecimentos em Python para desenvolvimento e análise de dados
-- 🗃️ Praticando SQL para consultas, modelagem e manipulação de dados
-- 🧪 Estudando conceitos de testes de software e validação de sistemas
-- 🧠 Explorando fundamentos de Inteligência Artificial e Machine Learning
-- 🧰 Aperfeiçoando o uso de Git e GitHub para versionamento e colaboração
-- 📊 Desenvolvendo habilidades em Power BI para criação de dashboards e visualização de dados
-- 💻 Fortalecendo lógica de programação e boas práticas de código
+- 🐍 Python para desenvolvimento e análise de dados.
+- 🗃️ SQL para consultas e manipulação de dados.
+- 🧰 Git e GitHub para versionamento e colaboração.
+- 📊 Power BI para visualização de dados.
+- 💻 Lógica de programação e boas práticas de código.
+- 🧠 Fundamentos de Inteligência Artificial e Machine Learning.
 
 ---
 ## 🤖 Linguagens e Tecnologias
